@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://link.medium.com/IEmJdQBztFb)
+  - [Active Directory Home Lab](https://pepking.netlify.app/assets/html/active_directory_home_lab)
   - [Linux command identifying running servers Home Lab](https://pepking.netlify.app/assets/html/linuxserver)
 
 <h2>🔭 Popular online publications</h2>
