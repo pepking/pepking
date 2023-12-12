@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://link.medium.com/IEmJdQBztFb)
   - [Linux command identifying running servers Home Lab](https://pepking.netlify.app/assets/html/linuxserver)
 
 <h2>🔭 Popular online publications</h2>
 
-- [Linux command identifying running servers Home Lab](https://pepking.netlify.app/assets/html/linuxserver)
+- [Active Directory Home Lab](https://link.medium.com/IEmJdQBztFb )
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PapkaPius | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
