@@ -20,7 +20,7 @@
 
 [twitter]: https://twitter.com/pepking5
 [facebook]: https://www.facebook.com/pius.emmanuel.37625?mibextid=LQQJ4d/
-[linkedin]: https://linkedin.com/in/emmanuel-pius-papka-355b66194
+[linkedin]: https://www.linkedin.com/in/emmanuel-pius-355b66194
 
 <!--
 **pepking/pepking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
