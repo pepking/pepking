@@ -1,6 +1,6 @@
 <h1>Hello, I'm Papka!</h1>
 <a href="https://linkedin.com/in/pius-emmanuel-papka-355b66194?"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></br>
-Highly skilled cybersecurity analyst with a passion for tackling advanced cyber threats. I specialize in malware analysis, reverse engineering, and incident response, using my skills to uncover how attackers operate and stop them in their tracks. With a deep understanding of malware development and forensic investigation, I dig into the details of security breaches to find the root cause and help organizations build stronger defenses.
+Highly skilled cybersecurity analyst with a passion for tackling advanced cyber threats. I specialize in Vulnerability Management, Incident Response, Malware analysis, and Reverse Engineering, using my skills to uncover how attackers operate and stop them in their tracks. With a deep understanding of malware development and forensic investigation, I dig into the details of security breaches to find the root cause and help organizations build stronger defenses.
 
 I am a graduate of computer science with a profound interest in technology and a dedication to solving complex problems.
 
